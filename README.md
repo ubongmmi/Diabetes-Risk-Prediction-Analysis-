@@ -49,7 +49,7 @@ The analysis followed these steps:
 ---
 
 ## 4. Analysis and Findings
-![Diabetes_Risk_Prediction_Analysis(Diabetes1a.jpg)
+![Diabetes Risk Prediction Analysis(Diabetes1a.jpg)
 ### 4.1 Overall Performance
 
 | Metric | Value |
