@@ -49,7 +49,7 @@ The analysis followed these steps:
 ---
 
 ## 4. Analysis and Findings![Diabetes Risk Prediction Analysis](Diabetes1a.jpg)
-![Diabetes Risk Prediction Analysis(Diabetes1a.jpg)
+
 ### 4.1 Overall Performance
 
 | Metric | Value |
@@ -63,7 +63,7 @@ The analysis followed these steps:
 
 Both the average BMI (30.92, in the obese range) and average HbA1c (8.49, above the ~5.7–6.4% pre-diabetic range and well above the normal range) point to a population with elevated overall metabolic and diabetes risk.
 
-### 4.2 Diabetic Rate by Country (Top 10, two views)
+### 4.2 Diabetic Rate by Country (Top 10, two views) ![Diabetes Risk Prediction Analysis](Diabetes1b.jpg)
 The dashboard displays two "Top 10" country lists — Spain, Pakistan, United Kingdom, South Africa, Saudi Arabia, Turkey, South Korea, Nigeria, United States, and Russia (green) alongside Germany, India, Egypt, China, France, Brazil, Argentina, Canada, Bangladesh, and Australia (red). Diabetic rates across both lists sit in a narrow, elevated band of roughly **65%–72%**, indicating high diabetic prevalence is broadly distributed across countries rather than concentrated in a few outliers.
 
 ### 4.3 Total Patients by Diabetic Risk
@@ -73,7 +73,7 @@ The dashboard displays two "Top 10" country lists — Spain, Pakistan, United Ki
 
 (These figures represent an aggregated volume measure, not a patient headcount — see Section 4.4 for patient-level risk counts.) The heavy skew toward High Risk relative to Moderate and Low Risk confirms that risk is concentrated at the top of the scale.
 
-### 4.4 Risk Level Distribution (Patient Count)
+### 4.4 Risk Level Distribution (Patient Count) ![Diabetes Risk Prediction Analysis](Diabetes1c.jpg)
 - High Risk: **34,618 patients (69.24%)**
 - Low Risk: **15,382 patients (30.76%)**
 
